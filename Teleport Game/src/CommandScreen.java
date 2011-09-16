@@ -4,6 +4,8 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+
+//This class creates the frame in which the user creates input
 public class CommandScreen extends JFrame {
 	
 	public CommandScreen(final GridScreen gs)
